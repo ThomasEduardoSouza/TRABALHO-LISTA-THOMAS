@@ -19,7 +19,7 @@ function sortPatients(patients) {
     });
 }
 
-console.log("Lista inicial de pacientes:");
+console.log("Lista inicial de  pacientes:");
 displayPatients(patients);
 
 sortPatients(patients);
